@@ -118,4 +118,5 @@ Potential improvements for future versions:
 
 ---
 ### built it by the shresta and rithu very profesionnaly 
+### hi everybody this is shresta and rithu 
 **Created with ❤️ using modern web development practices**
