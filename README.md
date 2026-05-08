@@ -117,5 +117,5 @@ Potential improvements for future versions:
 - Multi-language support
 
 ---
-
+### built it by the shresta and rithu very profesionnaly 
 **Created with ❤️ using modern web development practices**
